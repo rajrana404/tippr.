@@ -21,8 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Added split option using UIStepper, that allows user to split the total amount evenly between a group of people.
-
+- [x] Added split option using UIStepper, that allows user to split the tab evenly among group of people.
 
 ## Video Walkthrough 
 

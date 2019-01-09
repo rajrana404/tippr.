@@ -4,7 +4,7 @@ tippr. is a tip calculator application for iOS.
 
 Submitted by: Raj Rana
 
-Time spent: 10 hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![demo](https://user-images.githubusercontent.com/45339820/50931536-dbcad680-1430-11e9-9666-757ceea839a0.gif)
+![demo](https://user-images.githubusercontent.com/45339820/50931660-4419b800-1431-11e9-94b3-99bfc1712b57.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
